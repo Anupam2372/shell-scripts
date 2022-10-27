@@ -1,1 +1,1 @@
-# shell-scripts
+# SAC data pre-processing shell scripts
